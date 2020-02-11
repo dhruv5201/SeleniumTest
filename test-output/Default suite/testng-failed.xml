@@ -7,6 +7,7 @@
         <methods>
           <include name="beforeTest"/>
           <include name="Login"/>
+          <include name="closeBrowser"/>
         </methods>
       </class> <!-- com.selenium.test.SampleSelenium.E2Etest -->
     </classes>

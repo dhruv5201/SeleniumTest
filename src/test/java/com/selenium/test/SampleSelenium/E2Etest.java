@@ -15,6 +15,7 @@ public class E2Etest {
 	WebDriver driver;
   @Test
   public void Login() {
+	  System.out.println("Test Execution.............");
 	  driver.get("https://demo.testfire.net/login.jsp");
 	  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	  driver.findElement(By.xpath("//input[@id='uid']")).sendKeys("Admin");
