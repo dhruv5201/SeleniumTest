@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.selenium.test.SampleSelenium.E2Etest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.088 s - in com.selenium.test.SampleSelenium.E2Etest
